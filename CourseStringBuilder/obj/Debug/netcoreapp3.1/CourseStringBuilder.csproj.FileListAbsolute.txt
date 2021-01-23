@@ -1,0 +1,13 @@
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\bin\Debug\netcoreapp3.1\CourseStringBuilder.exe
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\bin\Debug\netcoreapp3.1\CourseStringBuilder.deps.json
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\bin\Debug\netcoreapp3.1\CourseStringBuilder.runtimeconfig.json
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\bin\Debug\netcoreapp3.1\CourseStringBuilder.runtimeconfig.dev.json
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\bin\Debug\netcoreapp3.1\CourseStringBuilder.dll
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\bin\Debug\netcoreapp3.1\CourseStringBuilder.pdb
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\obj\Debug\netcoreapp3.1\CourseStringBuilder.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\obj\Debug\netcoreapp3.1\CourseStringBuilder.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\obj\Debug\netcoreapp3.1\CourseStringBuilder.AssemblyInfo.cs
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\obj\Debug\netcoreapp3.1\CourseStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\obj\Debug\netcoreapp3.1\CourseStringBuilder.dll
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\obj\Debug\netcoreapp3.1\CourseStringBuilder.pdb
+C:\Users\diego\source\repos\CourseStringBuilder\CourseStringBuilder\obj\Debug\netcoreapp3.1\CourseStringBuilder.genruntimeconfig.cache
